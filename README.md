@@ -17,7 +17,7 @@ modelagem de banco de dados e controle de versão
    - `quantidade` (quantidade do item no pedido)
    - `data_pedido` (data da compra)
 
-## 📊 Relacionamento
+## Relacionamento
 - Um **produto** pode estar associado a vários **pedidos** (relação 1:N).
 - Cada **pedido** obrigatoriamente se relaciona com um **produto**.
 
