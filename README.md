@@ -1,10 +1,8 @@
 # cafeteria
-# Sistema de Banco de Dados - CafeteriaAromaCafe
+# Sistema de banco de dados - CafeteriaAromaCafe
 
 modelagem de banco de dados e controle de versão
-
 ---
-
 ##  Estrutura do Banco de Dados
 
 1. **Produtos**
@@ -19,13 +17,9 @@ modelagem de banco de dados e controle de versão
    - `quantidade` (quantidade do item no pedido)
    - `data_pedido` (data da compra)
 
----
-
 ## 📊 Relacionamento
 - Um **produto** pode estar associado a vários **pedidos** (relação 1:N).
 - Cada **pedido** obrigatoriamente se relaciona com um **produto**.
-
----
 
 ## Uso
 
